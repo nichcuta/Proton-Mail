@@ -10,6 +10,8 @@ Additional Python Libraries Required:
  
 Obviously a Proton Mail Account is also required.
 
+PS: If script is used in a non GUI environment, uncomment the commented lines for it to work properly.
+
 Thats right about it, Hope this simple script Helps :)
   
 
