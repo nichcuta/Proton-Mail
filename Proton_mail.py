@@ -46,3 +46,4 @@ def send_proton_email(email_to, email_subject, email_message):
         # del display
 
 send_proton_email('receiver_email@gmail.com', 'test', 'testmsg')
+#TEST
